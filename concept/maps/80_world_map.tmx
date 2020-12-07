@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.4" tiledversion="1.4.1" orientation="orthogonal" renderorder="right-down" width="100" height="100" tilewidth="16" tileheight="16" infinite="1" nextlayerid="2" nextobjectid="1">
+ <tileset firstgid="1" source="tileset.tsx"/>
+ <layer id="1" name="Tile Layer 1" width="100" height="100">
+  <data encoding="base64" compression="zstd">
+   <chunk x="-16" y="-48" width="16" height="16">
+   KLUv/WAAAyUCAMgAAIcAAACIegAAAHt8AAAAhR99g4MfAAAAEqAwcenwgrFQOwjYabCgDI9c5YOEXAQ57WqF4RpPHFQ12daO3Nb0pZYN
+  </chunk>
+   <chunk x="0" y="-48" width="16" height="16">
+   KLUv/WAAA/0DAGQDAACIAAAAh3sAAAB6fAAAAIUffYAAAACBjQAAAI6DOQAAADqFRgAAAEd/WAAAAD+DSwAAABp/IaAAEekBoIIyGHLDnAHAE22Me1yDMX11d+LNGhDgBqcBJVwnfmBLtgRNz+anI0mDmA3afWUejOSuL1aTTolrZZAERiI7iv8=
+  </chunk>
+   <chunk x="16" y="-48" width="16" height="16">
+   KLUv/WAAA60DAEQDAACIAAAAh3sAAAB6fAAAAIUfJVgAAAA/WTcAAAA4SwAAABpNRAAAAEVIGks+PhpNTQAAAB2gsJzSA8CCI9F5gcjQ5fHhmkGbLKaD6BDNnXnWOVBz0Y/l7DLicAY0GVxYrucWcnB9ud6QJWIJQAJLSjuqxA==
+  </chunk>
+   <chunk x="32" y="-48" width="16" height="16">
+   KLUv/WAAA4UBAHAAAIgAAACHewAAAHqFfwyAII/pEaRD4lVwHBAvAYE6QdKBkQQcV1wB5xV3dxRAAQ==
+  </chunk>
+   <chunk x="-16" y="-32" width="16" height="16">
+   KLUv/WAAA2UDAJQCAAB6AAAAewAAAHwAAAAfAAAAg38AhwAAAIgAAAB9hQCDgx9Bf3wxgjAhoFHWa9cOEANkwAA1hKM70IPsCfdhWvIJJbKF0oMcob92R6LHjN7M283N0AJPQao8pPjAXORnRMp+xuz1m6mjpA==
+  </chunk>
+   <chunk x="0" y="-32" width="16" height="16">
+   KLUv/WAAA7UEANQDewAAAHoAAAB8AAAAH0sAAAAahR8fg4M+AAAAJ38AAAB9eoWIAAAAh3yFATEBggEwgAAAAIGNAAAAjgAAACugADm6AICCQwZjAxDAIZ1xlSE635wEDFMMTU8iHRdvmvcMzvzgjiyOMb6+DrzbJD7iR3cPQvLlDOWyEK3ry9wH2vcE7zcOAe11Mzw0bGlP8DLH2GPWDw==
+  </chunk>
+   <chunk x="16" y="-32" width="16" height="16">
+   KLUv/WAAA+0DAOQDGgAAAFkAAAAfPgAAACdNgAAAAIEAAABLjQAAAI4/GidMAAAAfQAAAH96AAAAe4cAAACIfAAAAIUxgjBYHxoboKBcUufQApQwVwdcx0PcH/NV+msDXMqLykvBEiAFJRmWBFs6lJm4NUPIDtBXGAgb3ANB/vTXokSNNid0
+  </chunk>
+   <chunk x="32" y="-32" width="16" height="16">
+   KLUv/WAAA10CAPiFAAAAewAAAHoAfwAAAIgAAACHAH16h3x8ADGCMD8aE6Cw8noOEION23E8Fs7F5eOJ6cN0Ph6bx8Uw+DjoJglLKZK9AepzZmdIAQ==
+  </chunk>
+   <chunk x="-16" y="-16" width="16" height="16">
+   KLUv/WAAA5UDANQCAACHAAAAiHoAAAB7fAAAAIU/GidMAAAAJQAAAB8lAE1KgAAAAIGNAAAAjhpZIaAwb8kJ0AKksBoD+WA44t93HT6LS8VQaTACDJb/hKD4Dxe2xhfb8dln2/zpchA9kg9P9kJLOtY7WLrkppZJthbH2Q==
+  </chunk>
+   <chunk x="0" y="-16" width="16" height="16">
+   KLUv/WAAA00EACQDiAAAAIcAAAB8AAAAH3sAAAB6fYUfPwAAAFklGgAAAE1BSDcAAAAnAAAATEQ/P1gaSz4qoCA3tgCgAqupdQVTX3O6CwtyzYVzK66iG99y3eSD4U/2z4U5MbPPHQ3sOK+5ua1Ar7XGP80vavgXx6M+jUOt9xrXbdYH2NvdwUoOr2kh5Sdp+PkB
+  </chunk>
+   <chunk x="16" y="-16" width="16" height="16">
+   KLUv/WAAAwUEADQDHwAAAEsAAAAaJx8AAAA+TEuAAAAAgY0AAACOWAAAAD84RT8aPjoBAAA7AU1HAQAASAFkIaAAN3YFsAILoAo8MYyorzCP+X5gxC3sOGA1HnIOG+3M8Cb1INkCVKSt+JDiEEnbdLB5yIGxg/dcEYkYSifyaroh3S4PDxYVeNx/
+  </chunk>
+   <chunk x="32" y="-16" width="16" height="16">
+   KLUv/WAAA4UAACAaAAAAAwC9h1BBwAG/jgg=
+  </chunk>
+   <chunk x="-16" y="0" width="16" height="16">
+   KLUv/WAAA4UCALgAABpZAAAAJQAAAB8aPxonMYIwP0xNVB2gMNt2IINMmuI4ILRDO/ufaGCifY3EPJ/rgNKTPAzZEeqD1MkPl7RQyQuP/KEI4u8kF3exdrIM
+  </chunk>
+   <chunk x="0" y="0" width="16" height="16">
+   KLUv/WAAAxUFAGLEDRWghxPjlpfM4msNSeORhZP0UInqc/tucYVKHMHMKQsR9AKEw3sHXPBCSjcM5FyxVj5ox7o7bgI2oOBcgnsAoIIEYsUBHwSwBg/3nq/Io4q4KXXc80aCRrtDh4+EPhYbCPQh0UyPOGkIHyC5oTXuc9NAPD+ma7C24P76S0m8+vcjHUpZDOmz+9dvN0yPdYQaivv7MdFihF7E/PU7g1nqPw==
+  </chunk>
+   <chunk x="16" y="0" width="16" height="16">
+   KLUv/WAAA50DAFQDHwAAAEsAAAA/GicxgjA/JyUAAAAqAQAAKwEAAEo+NwEAADgBPkwAGkBGAUtZSwAAABoAAAAXoHAohW3twIIJqCrsL11r4BggAOzccdakRj2znX+kbJ51e3shtW2uGjSZ4AdMsYQnhaRUAlCCS9ZP+gM=
+  </chunk>
+   <chunk x="32" y="0" width="16" height="16">
+   KLUv/WAAA3UBAEgaAAAAJzGCMD8PoEC7BgADl6sBPaB6g1LjuDgcHo+hb8jjx3GY432Q5vFfKAM=
+  </chunk>
+   <chunk x="-16" y="16" width="16" height="16">
+   KLUv/WAAAz0BAHgAABoAAABNAAAAHxo/GicKIDCDB/1UsPAi4+Elg3TLONIuOY7AAg==
+  </chunk>
+   <chunk x="0" y="16" width="16" height="16">
+   KLUv/WAAA5UBAKAfAAAASwAAABpNWAAAAD9ZPxoaJw2gkG7iASCDDQf9WCEJJ53yefUEczWP7Bk2mbA/
+  </chunk>
+   <chunk x="16" y="16" width="16" height="16">
+   KLUv/WAAAzUBAIAfAAAAWAAAAD8AAAAaPxonCAD9cBUQSIdAYvDaTRogvqA7I44I
+  </chunk>
+   <chunk x="32" y="16" width="16" height="16">
+   KLUv/WAAA8UAACgaAAAAJwYA/UAFAQf2+PoQ0gg44NcRAQ==
+  </chunk>
+  </data>
+ </layer>
+</map>
