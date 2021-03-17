@@ -17,7 +17,7 @@ Will he be able to overcome the slippery slopes and jagged cliffs of Vorti Peaks
 
 Venture to Vorti Peaks takes place in a cozy ski resort in the mountain tops.
 
-<img src="./readme/worldmap.png" alt="worldmap"/>
+<img src="./readme/worldmap.PNG" alt="worldmap"/>
 
 ## Characters
 
