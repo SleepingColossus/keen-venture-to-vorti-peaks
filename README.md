@@ -45,6 +45,13 @@ Venture to Vorti Peaks takes place in a cozy ski resort in the mountain tops.
 
 <img src="./readme/gif/snowman.gif" alt="penguin" width=64 height=96/>
 
+## How to Play
+
+* Download the latest release and unzip
+* Mount unzipped folder in DOSBox
+* Run `play.bat`
+* Have fun 😉
+
 ## Credits
 
 Some tiles have been copied from other games.
