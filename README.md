@@ -8,6 +8,10 @@ Commander Keen in Venture to Vorti Peaks is a mod for Commander Keen Episode One
 * 16 original levels
 * Mostly original graphics
 
+## Gameplay Trailer
+
+Check out the official [gameplay trailer on YouTube](https://www.youtube.com/watch?v=GAOP7scq1B4)
+
 ## Story
 
 After saving The Earth from the Vorticon invasion, our hero Billy Blaze decides to take a vacation.
@@ -57,5 +61,6 @@ Venture to Vorti Peaks takes place in a cozy ski resort in the mountain tops.
 Some tiles have been copied from other games.
 
 * Several background tiles from Commander Keen Episode Three: Keen Must Die! by id Software
+* Several world map tiles from Commander Keen Episode Four: Secret of the Oracle
 * Wallpaper tile from Dangerous Dave In: The Haunted Mansion by Softdisk
 * Brick tiles from [Commander Bleen by Tulip](https://keenwiki.shikadi.net/wiki/Commander_Bleen)
