@@ -1,0 +1,1 @@
+copy STORYTXT.CK1 ..\keen1\.
