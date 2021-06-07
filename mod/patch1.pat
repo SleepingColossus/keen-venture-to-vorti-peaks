@@ -77,5 +77,23 @@
 %patch $15433 "Be careful!         "
 %patch $15449 "                    "
 
+# Main Menu
+# Set box height in lines of text
+%patch $9601 $04 $00
+
+# top menu item
+%patch $9331 $00        # when moving up
+%patch $9472 $00 $00    # when wrapping around from bottom
+
+# bottom menu item
+%patch $9414 $02        # when moving down
+%patch $938F $02 $00    # when wrapping from top
+
+#Hide main menu items
+%patch $9643 $90 $90 $90    # About Id
+%patch $964C $90 $90 $90    # High Scores
+%patch $9655 $90 $90 $90    # Ordering Info
+%patch $965E $90 $90 $90    # Previews!
+%patch $9667 $90 $90 $90    # Restart Demo
 
 %end
