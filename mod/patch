@@ -132,4 +132,7 @@
 %patch $16542 "                                        "
 %patch $16573 "                                  "
 
+# Vorticon Guard strength - 2
+%patch $180D $01 $00
+
 %end
