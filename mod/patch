@@ -96,4 +96,40 @@
 %patch $965E $90 $90 $90    # Previews!
 %patch $9667 $90 $90 $90    # Restart Demo
 
+# About ID
+%patch $15F80 "Venture to Vorti Peaks is a mod of"
+%patch $15FA8 "Commander Keen 1 by Id Software  "
+%patch $15FD0 "                              "
+%patch $15FF8 "                    "
+%patch $16020 "                                "
+%patch $16048 "                                   "
+%patch $16070 "                          "
+%patch $16098 "                       "
+%patch $160C0 "                             "
+%patch $160E8 "                                 "
+%patch $16110 "                         "
+
+#Ordering Info
+%patch $1632C "     Thank you for      "
+%patch $16346 "checking the mod out! :D "
+%patch $16364 "                   "
+%patch $1637B "                     "
+%patch $16392 "                         "
+%patch $163AD "                         "
+%patch $163C8 "                         "
+%patch $163E4 "                                     "
+%patch $1640D "                                   "
+%patch $16434 "                                   "
+%patch $1645B "                                 "
+%patch $16480 "                           "
+%patch $164B5 "               "
+%patch $164C6 "                "
+%patch $164DD "               "
+%patch $164EE "               "
+%patch $16505 "               "
+%patch $16516 "               "
+%patch $1652D "                 "
+%patch $16542 "                                        "
+%patch $16573 "                                  "
+
 %end
