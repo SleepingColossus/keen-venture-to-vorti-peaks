@@ -21,26 +21,26 @@
 # Hint level 2
 %patch $15080 "THE CAMP COUNSELOR  "
 %patch $15096 "SAYS:               "
-%patch $150AC "Those critters have "
-%patch $150C2 "invaded the cabin.  "
-%patch $150D8 "Get 'em out of there"
-%patch $150EE "                    "
+%patch $150AC "                    "
+%patch $150C2 "Those critters have "
+%patch $150D8 "invaded the cabin.  "
+%patch $150EE "Get 'em out of there"
 %patch $15104 "                    "
 
 # Hint level 6
 %patch $1511A "THE CAMP COUNSELOR  "
 %patch $15130 "SAYS:               "
-%patch $15146 "The bridge is broken"
-%patch $1515C "Be careful!         "
-%patch $15172 "                    "
+%patch $15146 "                    "
+%patch $1515C "The bridge is broken"
+%patch $15172 "Be careful!         "
 %patch $15188 "                    "
 %patch $1519E "                    "
 
 # Hint level 9
 %patch $151B4 "THE CAMP COUNSELOR  "
 %patch $151CA "SAYS:               "
-%patch $151E0 "Get to the choppa!  "
-%patch $151F6 "                    "
+%patch $151E0 "                    "
+%patch $151F6 "Get to the choppa!  "
 %patch $1520C "                    "
 %patch $15222 "                    "
 %patch $15238 "                    "
@@ -48,34 +48,34 @@
 # Hint level 10
 %patch $1524E "THE CAMP COUNSELOR  "
 %patch $15264 "SAYS:               "
-%patch $1527A "I hear these bears  "
-%patch $15290 " are collectable.   "
-%patch $152A6 "Try to find them all"
-%patch $152BC "                    "
+%patch $1527A "                    "
+%patch $15290 "I hear these bears  "
+%patch $152A6 " are collectable.   "
+%patch $152BC "Try to find them all"
 %patch $152D2 "                    "
 
 # Hint level 11
 %patch $152E8 "MORTIMER SAYS:      "
 %patch $152FE "You'll never find   "
 %patch $15314 "where I hid         "
-%patch $1532A "the cabin keys      "
+%patch $1532A "the cabin keys! HAHA"
 
 # Hint level 12
 %patch $15340 "THE CAMP COUNSELOR  "
 %patch $15356 "SAYS:               "
-%patch $1536C "I bet the key must  "
-%patch $15382 "be down there in     "
-%patch $15399 "that cave!          "
-%patch $153AF "                    "
+%patch $1536C "                    "
+%patch $15382 "I bet the key must  "
+%patch $15399 "be down there in    "
+%patch $153AF "that cave!          "
 %patch $153C5 "                    "
 
 # Hint level 15
 %patch $153DB "THE CAMP COUNSELOR  "
 %patch $153F1 "SAYS:               "
-%patch $15407 "I'm hiding up here  "
-%patch $1541D "from those yetis    "
-%patch $15433 "Be careful!         "
-%patch $15449 "                    "
+%patch $15407 "                    "
+%patch $1541D "I'm hiding up here  "
+%patch $15433 "from those yetis.   "
+%patch $15449 "Be careful!         "
 
 # Main Menu
 # Set box height in lines of text
