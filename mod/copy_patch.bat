@@ -1,1 +1,1 @@
-copy patch1.pat ..\keen1\.
+copy patch ..\keen1\.

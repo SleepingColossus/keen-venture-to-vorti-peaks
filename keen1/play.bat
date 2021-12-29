@@ -1,1 +1,1 @@
-ck1patch patch1.pat
+ck1patch patch
