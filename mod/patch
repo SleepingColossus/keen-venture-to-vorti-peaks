@@ -15,7 +15,7 @@
 
 # Ship Message
 %patch $1659B "YOU ARE MISSING     "
-%patch $165B0 "THIS GEAR   "
+%patch $165B0 "THESE ITEMS "
 %patch $165C6 "            "
 
 # Hint level 2
