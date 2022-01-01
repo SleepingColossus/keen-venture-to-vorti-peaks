@@ -89,7 +89,7 @@
 %patch $9414 $02        # when moving down
 %patch $938F $02 $00    # when wrapping from top
 
-#Hide main menu items
+# Hide main menu items
 %patch $9643 $90 $90 $90    # About Id
 %patch $964C $90 $90 $90    # High Scores
 %patch $9655 $90 $90 $90    # Ordering Info
@@ -109,7 +109,7 @@
 %patch $160E8 "                                 "
 %patch $16110 "                         "
 
-#Ordering Info
+# Ordering Info
 %patch $1632C "     Thank you for      "
 %patch $16346 "checking the mod out! :D "
 %patch $16364 "                   "
