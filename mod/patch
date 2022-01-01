@@ -135,4 +135,42 @@
 # Vorticon Guard strength - 2
 %patch $180D $01 $00
 
+# Finale
+%patch $15C24 "After reclaiming his gear and      "
+%patch $15C49 "reaching the tops of Vorti Peaks,"
+%patch $15C6C "Billy is ready to return home. His "
+%patch $15C91 "parents are on their way now.  "
+
+%patch $15CBD "How was winter camp,  "
+%patch $15CD5 "son? Did you have "
+%patch $15CE9 "fun? asked Dad   "
+
+%patch $15CFB "I had a blast!     "
+%patch $15D10 "It was the best    "
+%patch $15D25 "trip ever!"
+
+%patch $15D30 "Oh, and Mortimer was "
+%patch $15D47 "there, too. He tried "
+%patch $15D5E "to prank me again. "
+%patch $15D73 "What a jerk"
+
+%patch $15D80 "A minor setback,"
+%patch $15D92 "as usual."
+
+%patch $15D9C "There's a new pizza   "
+%patch $15DB4 "place next to us.   "
+%patch $15DCA "I heard it's great -Mom"
+
+%patch $15DE2 "Shall we go? -Dad  "
+
+%patch $15DF6 "Yeah, let's go! "
+
+%patch $15E07 "And so Billy and his "
+%patch $15E1E "parents hopped in the  "
+%patch $15E37 "car and went to    "
+%patch $15E4C "grab a wholesome     "
+%patch $15E63 "family meal.  "
+
+%patch $15E72 "THE END            "
+
 %end
